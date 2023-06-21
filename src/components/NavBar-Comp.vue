@@ -1,4 +1,7 @@
-<template>
+
+// template syntax allows you to declaratively bind the rendered DOM to the underlying component instances data
+<template> 
+<!-- nav bar -->
     <nav>
     <img src="https://img.logoipsum.com/274.svg" alt="logo">
 
